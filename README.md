@@ -35,7 +35,7 @@
 ---
 
 ## 🐍 Contribution Graph
-![Snake animation](https://github.com/Joel-Patankar/Joel-Patankar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Joel-Patankar/Joel-Patankar/output/snake.svg)
 
 ---
 
