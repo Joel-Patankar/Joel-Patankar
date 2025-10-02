@@ -34,11 +34,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/Joel-Patankar/Joel-Patankar/output/snake.svg)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/joel-patankar-8a0654291)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yourname@gmail.com)  
